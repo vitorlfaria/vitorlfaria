@@ -1,7 +1,7 @@
 #Eu sou o Vitor Lacerda, um novo Dev me encantando por esse mundo! 👋
 
  <div>
-  <img align="left" alt="vitorlfaria's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vitorlfaria" />
+  <img align="left" alt="vitorlfaria's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vitorlfaria&hide=stars" />
 </div>
   
 ---
