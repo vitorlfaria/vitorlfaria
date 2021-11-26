@@ -2,8 +2,8 @@
 
  <div>
  
-  <img align="center" alt="vitorlfaria's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vitorlfaria&hide=stars&show_icons=true&theme=vue-dark" />
-  
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vitorlfaria&hide=stars&show_icons=true&theme=vue-dark/>
+                           
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorlfaria&layout=compact&theme=vue-dark"/>
   
 </div>
